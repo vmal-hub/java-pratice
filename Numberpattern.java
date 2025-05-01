@@ -10,7 +10,7 @@ System.out.print(col+" ");
 }
 System.out.println();
 }
-System.out.println();
+//System.out.println();
 
 for(int i=4; i>=1; i--)
 {
